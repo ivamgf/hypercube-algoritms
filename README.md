@@ -1,2 +1,2 @@
 # hypercube-algoritms
-hypercube-algoritms project
+hypercube-algoritms project.
